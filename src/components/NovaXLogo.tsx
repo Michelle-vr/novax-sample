@@ -9,7 +9,7 @@ interface NovaXLogoProps {
 const NovaXLogo: React.FC<NovaXLogoProps> = ({ size = 120, animate = true }) => {
   // Using the NovaX logo image directly
   // The logo should be placed in /public/novax-logo.png
-  const logoUrl = 'https://i.imgur.com/YourLogoId.png' // You'll replace this with your actual logo URL
+  const logoUrl = 'https://imgur.com/a/CpU6ujC' // You'll replace this with your actual logo URL
 
   return (
     <motion.div
